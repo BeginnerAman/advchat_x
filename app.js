@@ -5,13 +5,13 @@
 
 // ---- Firebase Config ----
 const firebaseConfig = {
-  apiKey: "AIzaSyDGw_RyJsLzKXBiJRnzy1IzX3ql1QgglW4",
-  authDomain: "adjchat-8558d.firebaseapp.com",
-  databaseURL: "https://adjchat-8558d-default-rtdb.firebaseio.com",
-  projectId: "adjchat-8558d",
-  storageBucket: "adjchat-8558d.firebasestorage.app",
-  messagingSenderId: "846686155292",
-  appId: "1:846686155292:web:57ee5997f99e4a52aea5d9"
+  apiKey: "AIzaSyANWfUY4cm6B1k4ktU2kTWXE2Zzftd9ugw",
+  authDomain: "mostadvchat.firebaseapp.com",
+  databaseURL: "https://mostadvchat-default-rtdb.firebaseio.com",
+  projectId: "mostadvchat",
+  storageBucket: "mostadvchat.firebasestorage.app",
+  messagingSenderId: "376046487019",
+  appId: "1:376046487019:web:4a0922e56a035fa21e45ae"
 };
 
 firebase.initializeApp(firebaseConfig);
